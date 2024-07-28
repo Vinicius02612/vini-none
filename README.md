@@ -1,6 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f4bb6&height=220&section=header"/>
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Information Systems Student and Beginner Web Developer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Information Systems Student and Beginner Web Developer passionate about solving complex problems through technology. I like learning new things. I'm just starting my journey in this area and I hope to acquire many good skills over the years. I hope you like my github profile. See you later.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=vini-none&theme=radical&mode=weekly" />
